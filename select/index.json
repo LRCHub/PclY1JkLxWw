@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "詠人",
+  "base_artist": "北島三郎",
+  "createdAt": "2026-02-11T20:44:25.718691Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "詠人",
+      "artist": "北島三郎",
+      "has_synced": false,
+      "path": "select/01_詠人_北島三郎.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "詠人",
+      "artist": "北島 三郎",
+      "has_synced": false,
+      "path": "select/pl_01_詠人_北島_三郎.txt"
+    }
+  ]
+}
